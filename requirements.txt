@@ -1,3 +1,5 @@
 thriftpy==0.3.1
 lxml==3.5.0
+celery==3.1.20
+packtools==0.7.6
 -e git+https://github.com/scieloorg/articlemeta2scielomanager#egg=articlemeta2scielomanager
